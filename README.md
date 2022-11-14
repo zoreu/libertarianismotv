@@ -1,5 +1,6 @@
 # libertarianismotv
 Addon do canal ancapsu classic para kodi
+
 Compatível apenas com kodi 19+
 
 Link para gestor de ficheiro do kodi:
